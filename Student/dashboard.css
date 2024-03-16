@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.dropdown_content{
+    position: relative;
+}
+.dropdown_item{
+    margin-left: -150px;
+}
+.icon{
+   font-size: 25px;
+}
+.rocket{
+    width: 60px;
+    height: 60px;
+    background-color: #38ce3c;
+}
+.person{
+    width: 60px;
+    height: 60px;
+    background-color: #ff4d6b;
+}
+.file_ear{
+    width: 60px;
+    height: 60px;
+}
+.file{
+    width: 60px;
+    height: 60px;
+}
+.img_width{
+    width: 40px;
+    height: 40px;
+}
+
+.log{
+    margin-top: 100px;
+}
+.log_img{
+    width: 225px;
+    height: 350px;
+}

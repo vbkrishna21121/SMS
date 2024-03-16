@@ -1,0 +1,42 @@
+.offcanvas_body{
+    width: 250px;
+    background-color: #000000;
+    color: #ffffff
+}
+.sidebar{
+    background-color: #000000;
+}
+.btn_bg{
+    background-color: #000000;
+}
+.body_bg{
+    background-color: #000000;
+}
+.accordion_bg{
+    background-color: #000000 !important;
+}
+.icon{
+   font-size: 25px;
+}
+.rocket{
+    width: 60px;
+    height: 60px;
+    background-color: #38ce3c;
+    
+}
+.person{
+    width: 60px;
+    height: 60px;
+    background-color: #ff4d6b;
+}
+.file_ear{
+    width: 60px;
+    height: 60px;
+}
+.file{
+    width: 60px;
+    height: 60px;
+}
+.dashboard_details{
+    background-color: #291a1a;
+}
